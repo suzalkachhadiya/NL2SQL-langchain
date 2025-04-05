@@ -87,7 +87,7 @@ Follow these steps to get started with the project:
 7. **Run the Streamlit App:**
 
    ```bash
-   streamlit run nl2sql.py
+   python run.py
    ```
    This command will start the Streamlit app.
 
