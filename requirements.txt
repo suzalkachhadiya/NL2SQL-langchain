@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+langchain_core
+mysql-connector-python
+SQLALchemy
+pymysql
+chromadb
+langchain-google-genai
+python-dotenv
+faiss-cpu
+google-generativeai
